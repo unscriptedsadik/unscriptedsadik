@@ -1,8 +1,11 @@
+[![MasterHead](https://i.pinimg.com/736x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg)](https://github.com/unscriptedsadik)
+
 # Hi 👋, I'm Sadik Laskar
 
 ### I am a Software Development Engineer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unscriptedsadik&label=Profile views&color=0e75b6&style=flat" alt="unscriptedsadik" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/c9/88/0a/c9880a8abf25f389be7154e8fee18270.jpg">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unscriptedsadik" alt="unscriptedsadik" /></a> </p>
 
