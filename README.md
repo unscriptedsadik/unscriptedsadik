@@ -1,11 +1,16 @@
-[![MasterHead](https://i.pinimg.com/736x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg)](https://github.com/unscriptedsadik)
+[![MasterHead](https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif)](https://github.com/unscriptedsadik)
 
 # Hi 👋, I'm Sadik Laskar
 
 ### I am a Software Development Engineer.
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/a5/47/b6/a547b6f56462fc0a90ef33702b4060a9.jpg">
+
+ 
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unscriptedsadik&label=Profile views&color=0e75b6&style=flat" alt="unscriptedsadik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unscriptedsadik" alt="unscriptedsadik" /></a> </p>
 
@@ -13,11 +18,17 @@
 
 - 🌱 I'm currently learning **TypeScript, Next.js, GraphQL, Docker, PostgreSQL, Tailwind CSS, Vite, Supabase. **
 
+- 👯 I'm looking to collaborate on **Looking to collaborate on my repositories or join exciting projects, feel free to invite me! **
+
+- 🤝 I'm looking for help with **Always eager to learn! I’m looking for help and guidance in exploring new technologies.**
+
 - 💬 Ask me about **
 HTML5,CSS3, JavaScript (ES6+), React.js, Next.js,
 Node.js, Express.js, MongoDB, PostgreSQL, Prisma ORM, GraphQL, Docker, AWS (Amazon Web Services), Tailwind CSS, CI/CD (GitHub Actions, Jenkins)**
 
 - 📫 How to reach me **jr.sadiklaskar7@gmail.com**
+
+- ⚡ Fun fact **buy me a coffee 😊🤗**
 
 - 👨‍💻 All of my projects are available at **[https://onportfolio42.vercel.app/](https://onportfolio42.vercel.app/)**
 
@@ -29,6 +40,7 @@ Node.js, Express.js, MongoDB, PostgreSQL, Prisma ORM, GraphQL, Docker, AWS (Amaz
 <p align="left">
 <a href="https://github.com/unscriptedsadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="unscriptedsadik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sadiklaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadiklaskar" height="30" width="40" /></a>
+<a href="https://leetcode.com/unscriptedsadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unscriptedsadik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
