@@ -4,13 +4,10 @@
 
 ### I am a Software Development Engineer.
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/a5/47/b6/a547b6f56462fc0a90ef33702b4060a9.jpg">
-
- 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unscriptedsadik&label=Profile views&color=0e75b6&style=flat" alt="unscriptedsadik" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unscriptedsadik" alt="unscriptedsadik" /></a> </p>
 
